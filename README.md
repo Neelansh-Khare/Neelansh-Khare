@@ -3,7 +3,7 @@
 
 I'm Neel, a Software Engineer and CS graduate from UC Irvine (CO'25)
 
-💼 Currently @ Neuracities
+💼 Currently @ Polaris Wireless
 
 💬 Exploring new opportunities in SWE, Fullstack or AI/ML roles
 
